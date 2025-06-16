@@ -2,40 +2,58 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Maxwell Britton Walker</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Home</title>
+  <link href="https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap" rel="stylesheet" />
   <style>
     body {
-      <nav>
-  <ul class="nav-menu">
-    <li><a href="index.html">Home</a></li>
-    <li><a href="about.html">About</a></li>
-    <li><a href="contact.html">Contact</a></li>
-  </ul>
-</nav>
-      font-family: "Courier New", Courier, monospace;
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 20px;
-      color: #333;
+      font-family: 'Courier Prime', monospace;
+      background: linear-gradient(135deg, #667eea, #764ba2);
+      color: white;
+      margin: 0;
+      padding: 2rem;
+      min-height: 100vh;
     }
-    body {
-  cursor: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABJklEQVRYR+2XvQ3CMAyFJ1saDfKjSlBAzElGSlq8gvEHLgMgpm7MfTjtwCEZYsVSMiTPYLLPeEpJ9FpQUvBYip2RGCJ7t4aMPgEB9LYKmrRJmnMJOZkAKBAdAA/AzDzv5dshBgHokQFyMqFxR3fwTz+Ce3K0X7t8pOA3XUKfYAOmz07ZzIxCSZjLm4PSxHZARvExGQE54Gu7h0cLoYLQ8uAfJ7/QJqQEgIgKEEZmJl4KhMdH7koWq8x5EUYpUqXS7Go2Ww+hG3QiU1B6vXO9MTTcqqqvEHIdGcRncRiHL6T2TP4E4OJvJyZy7PM9EDyOnE2lMTFvA7XZX7zzhs6KioKAiHBA7oDe11Wi8c9M0lkCqfT1O8d3GVFYs30HeD8CNdfDEepRe3kAAAAASUVORK5CYII='), auto;
-}
-    body {
-  font-family: "Courier New", Courier, monospace; 
+
+    .nav-menu {
+      list-style: none;
+      padding: 0;
+      margin: 1rem 0 2rem 0;
+      display: flex;
+      gap: 1.5rem;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 8px;
+      max-width: 600px;
     }
-    h1 {
-      color: #000000;
+
+    .nav-menu li a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      padding: 0.5rem 1rem;
+      display: inline-block;
+      border-radius: 4px;
+      transition: background-color 0.3s ease;
     }
-    a {
-      color: #cc0000;
+
+    .nav-menu li a:hover {
+      background-color: rgba(255, 255, 255, 0.3);
     }
   </style>
 </head>
 <body>
+
+  <nav>
+    <ul class="nav-menu">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
   <h1>Maxwell Britton Walker</h1>
   <p>Author, artist, college radio cowboy.</p>
-  <p>Check out my <a href="https://www.instagram.com/maxwbritton/" target="_blank">Instagram</a>.</p>
+
 </body>
 </html>
+
