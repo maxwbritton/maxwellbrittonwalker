@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Contact</title>
+  <title>Home</title>
   <link href="https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap" rel="stylesheet" />
   <style>
     body {
@@ -14,9 +14,42 @@
       padding: 2rem;
       min-height: 100vh;
     }
+
+    .nav-menu {
+      list-style: none;
+      padding: 0;
+      margin: 1rem 0 2rem 0;
+      display: flex;
+      gap: 1.5rem;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 8px;
+      max-width: 600px;
+    }
+
+    .nav-menu li a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      padding: 0.5rem 1rem;
+      display: inline-block;
+      border-radius: 4px;
+      transition: background-color 0.3s ease;
+    }
+
+    .nav-menu li a:hover {
+      background-color: rgba(255, 255, 255, 0.3);
+    }
   </style>
 </head>
 <body>
+
+  <nav>
+    <ul class="nav-menu">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
   <h1>Contact</h1>
   <p>Email me at maxwbritton@gmail.com.<p>
   </p> Check out my <a href="https://www.instagram.com/maxwbritton/" target="_blank" rel="noopener noreferrer">instagram</a></p>
