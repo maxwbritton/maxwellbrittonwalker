@@ -72,21 +72,21 @@
   <p id="random-message"></p>
 
 <script>
-  fetch('messages.json')
-    .then(response => {
-      if (!response.ok) {
-        throw new Error(`HTTP error! Status: ${response.status}`);
-      }
-      return response.json();
-    })
-    .then(messages => {
-      const randomMessage = messages[Math.floor(Math.random() * messages.length)];
-      document.getElementById("random-message").textContent = randomMessage;
-    })
-    .catch(error => {
-      console.error("Fetch failed:", error);
-      document.getElementById("random-message").textContent = "Couldn't load message.";
-    });
+ fetch('messages.json')
+  .then(response => {
+    if (!response.ok) {
+      throw new Error(`HTTP error! Status: ${response.status}`);
+    }
+    return response.json();
+  })
+  .then(messages => {
+    const message = messages[Math.floor(Math.random() * messages.length)];
+    document.getElementById("random-message").innerHTML = message;
+  })
+  .catch(error => {
+    console.error("Fetch failed:", error);
+    document.getElementById("random-message").textContent = "MBW hates when his messages don't display properly - 17 Jun, 2025";
+  });
 </script>
 
 
