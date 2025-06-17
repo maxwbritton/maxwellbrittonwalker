@@ -73,17 +73,22 @@
 
 <script>
   fetch('messages.json')
-    .then(response => response.json())
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! Status: ${response.status}`);
+      }
+      return response.json();
+    })
     .then(messages => {
-      const randomIndex = Math.floor(Math.random() * messages.length);
-      const message = messages[randomIndex];
-      document.getElementById("random-message").textContent = message;
+      const randomMessage = messages[Math.floor(Math.random() * messages.length)];
+      document.getElementById("random-message").textContent = randomMessage;
     })
     .catch(error => {
-      console.error("Could not load messages:", error);
-      document.getElementById("random-message").textContent = "Default message here.";
+      console.error("Fetch failed:", error);
+      document.getElementById("random-message").textContent = "Couldn't load message.";
     });
 </script>
+
 
 </body>
 </html>
