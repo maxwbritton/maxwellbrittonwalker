@@ -69,7 +69,27 @@
   </nav>
 
   <h1>Maxwell Britton Walker</h1>
-  <p>MBW hates EGR.</p>
+  <p id="random-message"></p>
+
+  <script>
+  // List of messages
+  const messages = [
+    "MBW hates EGR - 16 June, 2025",
+    "MBW loves <a href="https://www.instagram.com/bleachersmusic/?hl=en">Bleachers</a> - 17 June 2025", 
+    "MBW loves <a href="https://www.youtube.com/user/nprmusic">NPR Tiny Desk</a> - 17 June 2025",
+    "MBW loves <a href="wrcufm.org">WRCU</a> - 17 June, 2025"
+    "MBW loves <a href="https://firsttoknock.com/">First To Knock</a> - 17 June, 2025",
+    "MBW loves <em> Unpacking My Library </em> by Walter Benjamin - 17 June, 2025",
+    "MBW loves FCH & TWV - 17 June 2025"
+  ];
+
+  // Choose a random message
+  const randomIndex = Math.floor(Math.random() * messages.length);
+  const message = messages[randomIndex];
+
+  // Display it in the page
+  document.getElementById("random-message").textContent = message;
+</script>
 
 </body>
 </html>
