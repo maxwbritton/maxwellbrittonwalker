@@ -10,7 +10,7 @@ body {
 
 a {
   color: #ffffff;
-  text-decoration: underline dotted;
+  text-decoration: none;
 }
 
 a:hover {
