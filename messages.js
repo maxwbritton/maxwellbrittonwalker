@@ -1,0 +1,22 @@
+const messages = [
+  `maybe i should get into vandalism - 18 June, 2025`,
+  `words worn smooth from use - 18 June, 2025`,
+  `MBW loves Glooby and the Doobies - 18 June, 2025`,
+  `test test test... maybe you'd like some of Jack's newer stuff <br>- Lana Del Rey - 18 June, 2025`,
+  `MBW loves when his website works. - 18 June, 2025`,
+  `MBW hates when his website doesn't work. - 18 June, 2025`,
+  `MBW misses LEB - 18 June, 2025`,
+  `MBW hates EGR - 18 June, 2025`,
+  `MBW loves <a href=\"https://www.instagram.com/bleachersmusic/?hl=en\">Bleachers</a>  - 17 June, 2025`,
+  `MBW loves <a href=\"https://www.youtube.com/user/nprmusic\">NPR Tiny Desk</a>  - 17 June, 2025`,
+  `MBW loves <a href=\"https://wrcufm.org\">WRCU</a>  - 17 June, 2025`,
+  `MBW loves <a href=\"https://firsttoknock.com/\">First To Knock</a> - 17 June, 2025`,
+  `MBW loves <em>Unpacking My Library</em> by Walter Benjamin  - 17 June, 2025`,
+  `MBW loves FCH & TWV  - 17 June, 2025`,
+  `does it make the kiss more real <br> that i am standing here, watching <br> surrounded by stacks and shelves of books? <br> as you scatter your shirts <br> do you see through my eyes <br> feel secondhand your wasted heat? <br> i should have been a brown-eyed hound, <br> morose, cornered.  - 25 May, 2025`,
+  `my mother paints sitting women <br> and leaves them half-finished, half-dressed <br> leaning, laying, hanging <br> our retinue of house guests - 25 May, 2025`,
+  `no more sleepwalking <br> no more sleepwalking <br> i will stand between white rectangles <br> and watch the traffic pass  - 25 May, 2025`,
+  `In the bookstore where you can climb the creaking wooden stairs to reach the cheap used books <br> I found you, and I told you that I loved you over a copy of Eliot?s Four Quartets. <br> I wish that I had read more, but Im only 21. Maybe Ive read too much. Maybe Ive read too much into this. <br> In my room with the windows open, basking in the April sun. <br> Sometimes when it rains, I hardly even notice that I?m getting wet. And then I catch cold.  - 1 April, 2025`,
+  `i still think of you most days <br> i remember when we kissed in a redwood <br> and overheated in your apartment <br> i remember you speeding <br> through your neighbourhood <br> while i clung to the overhead <br> we?d buy books in every bookstore <br> and youd start them all but never finish <br> and mine are bookmarked on my wardrobe <br> until i stop thinking about it <br> we saw the killers that one time <br> and a thousand people sang ive been doing just fine <br> and my head would sit on top of yours - 14 March, 2025`,
+  `i been having these stressed out dreams <br> wake up cold before my alarm rings <br> and i been depressed and mean girl <br> but not recently.  - 1 January, 2025`
+];
