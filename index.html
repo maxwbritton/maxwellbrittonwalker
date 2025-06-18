@@ -21,22 +21,10 @@
   <p id="random-message"></p>
  <a href="index.html">Click here for a different message.</a>
 
+<script src="messages.js"></script>
 <script>
- fetch('messages.json')
-  .then(response => {
-    if (!response.ok) {
-      throw new Error(`HTTP error! Status: ${response.status}`);
-    }
-    return response.json();
-  })
-  .then(messages => {
-    const message = messages[Math.floor(Math.random() * messages.length)];
-    document.getElementById("random-message").innerHTML = message;
-  })
-  .catch(error => {
-    console.error("Fetch failed:", error);
-    document.getElementById("random-message").textContent = "MBW hates when his messages don't display properly - 17 Jun, 2025";
-  });
+  const random = messages[Math.floor(Math.random() * messages.length)];
+  document.getElementById('random-message').innerHTML = random;
 </script>
 
 
