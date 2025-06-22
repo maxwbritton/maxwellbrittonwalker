@@ -20,5 +20,6 @@ const messages = [
   `i still think of you most days <br> i remember when we kissed in a redwood <br> and overheated in your apartment <br> i remember you speeding <br> through your neighbourhood <br> while i clung to the overhead <br> we?d buy books in every bookstore <br> and youd start them all but never finish <br> and mine are bookmarked on my wardrobe <br> until i stop thinking about it <br> we saw the killers that one time <br> and a thousand people sang ive been doing just fine <br> and my head would sit on top of yours - 14 March, 2025`,
   `i been having these stressed out dreams <br> wake up cold before my alarm rings <br> and i been depressed and mean girl <br> but not recently.  - 1 January, 2025`,
   `You were like the sun <br> Beating down on my shoulders. <br> I felt it after. - 19 June, 2025`,
-  `all the coolest people were freaks and geeks in high school - 22 June, 2025`
+  `all the coolest people were freaks and geeks in high school - 22 June, 2025`,
+  `i had a best friend who was a boy when i was young and he became the social chair of a fraternity  - 22 June, 2025`
 ];
