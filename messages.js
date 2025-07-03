@@ -22,5 +22,6 @@ const messages = [
   `You were like the sun <br> Beating down on my shoulders. <br> I felt it after. - 19 June, 2025`,
   `all the coolest people were freaks and geeks in high school - 22 June, 2025`,
   `i had a best friend who was a boy when i was young and he became the social chair of a fraternity  - 22 June, 2025`,
-  `don?t rap about icarus if you?re a burnout on the ground - 29 June, 2025`
+  `don?t rap about icarus if you?re a burnout on the ground - 29 June, 2025`,
+  `when I drive up hills upstate <br> and the sky fills my windshield <br> I wonder if anything could convince me to come back down - 3 July, 2025`
 ];
