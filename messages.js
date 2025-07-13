@@ -39,5 +39,22 @@ And our campfire ashes will wash away <br>
 Undarkening into green. <br>
 <br>
 In San Diego, <br>
-We hold hands and look for sea glass. - 13 July, 2025`
+We hold hands and look for sea glass. - 13 July, 2025`,
+  `If I thought there was any chance <br>
+That the things I softly say <br>
+Whispered over wrists, curled round your neck <br>
+Would go beyond this final dance <br>
+ <br>
+The fire in my throat would still <br>
+And I would leave the sweet-smelling air unbroken <br>
+By any sound except the quartet <br>
+And the tenor by the windowsill <br>
+<br>
+But the strings swell with my swan song <br>
+And no one returns to what once was <br>
+Details of seconds and minutemen <br>
+March on and on, on and on <br>
+ <br>
+Ask me now and I?ll answer <br>
+Ask for truth, dancer. - 13 July, 2025`
 ];
