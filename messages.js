@@ -23,5 +23,21 @@ const messages = [
   `all the coolest people were freaks and geeks in high school - 22 June, 2025`,
   `i had a best friend who was a boy when i was young and he became the social chair of a fraternity  - 22 June, 2025`,
   `don?t rap about icarus if you?re a burnout on the ground - 29 June, 2025`,
-  `when I drive up hills upstate <br> and the sky fills my windshield <br> I wonder if anything could convince me to come back down - 3 July, 2025`
+  `when I drive up hills upstate <br> and the sky fills my windshield <br> I wonder if anything could convince me to come back down - 3 July, 2025`,
+  `Burning, burning <br>
+Strawberry fields <br>
+Fragrant smoke above the beach <br>
+Wisps whisked by waves  <br>
+through jacaranda <br>
+I hear them whisper, each to each. <br>
+<br>
+When the tide approaches <br>
+Gentle, insistent, <br>
+Like a neighbour knocking at the screen <br>
+We?ll wet our feet and climb the scorched dunes <br>
+And our campfire ashes will wash away <br>
+Undarkening into green. <br>
+<br>
+In San Diego, <br>
+We hold hands and look for sea glass. - 13 July, 2025`
 ];
