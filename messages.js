@@ -19,10 +19,10 @@ const messages = [
   `In the bookstore where you can climb the creaking wooden stairs to reach the cheap used books <br> I found you, and I told you that I loved you over a copy of Eliots Four Quartets. <br> I wish that I had read more, but Im only 21. Maybe Ive read too much. Maybe Ive read too much into this. <br> In my room with the windows open, basking in the April sun. <br> Sometimes when it rains, I hardly even notice that Im getting wet. And then I catch cold.  - 1 April, 2025`,
   `i still think of you most days <br> i remember when we kissed in a redwood <br> and overheated in your apartment <br> i remember you speeding <br> through your neighbourhood <br> while i clung to the overhead <br> we?d buy books in every bookstore <br> and youd start them all but never finish <br> and mine are bookmarked on my wardrobe <br> until i stop thinking about it <br> we saw the killers that one time <br> and a thousand people sang ive been doing just fine <br> and my head would sit on top of yours - 14 March, 2025`,
   `i been having these stressed out dreams <br> wake up cold before my alarm rings <br> and i been depressed and mean girl <br> but not recently.  - 1 January, 2025`,
-  `You were like the sun <br> Beating down on my shoulders. <br> I felt it after. - 19 June, 2025`,
+  `You were like the sun <br> Beating down on my shoulders. - 19 June, 2025`,
   `all the coolest people were freaks and geeks in high school - 22 June, 2025`,
   `i had a best friend who was a boy when i was young and he became the social chair of a fraternity  - 22 June, 2025`,
-  `don?t rap about icarus if you?re a burnout on the ground - 29 June, 2025`,
+  `dont rap about icarus if youre a burnout on the ground - 29 June, 2025`,
   `when I drive up hills upstate <br> and the sky fills my windshield <br> I wonder if anything could convince me to come back down - 3 July, 2025`,
   `Burning, burning <br>
 Strawberry fields <br>
@@ -55,6 +55,21 @@ And no one returns to what once was <br>
 Details of seconds and minutemen <br>
 March on and on, on and on <br>
  <br>
-Ask me now and I?ll answer <br>
-Ask for truth, dancer. - 13 July, 2025`
+Ask me now and Ill answer <br>
+Ask for truth, dancer. - 13 July, 2025`,
+  `But there?s a white house on a hill, <br>
+And it?s a lighthouse for me still. <br>
+On the fourth date, Charlie told you <br>
+That it?s a privilege to feel. <br>
+ - 9 September, 2025`,
+  `The day I get <br>
+too sick to read, <br>
+dash me on the rocks. <br>
+ - 9 September, 2025`,
+  `how high do we go in the dark <br>
+and how do we know it?s not too far <br>
+my friends go get high in the park <br>
+i sit on the swings and watch the passing cars <br> - 9 September, 2025`,
+  `I want you to get a little anna karenina <br>
+again and again and again and again and a - 9 September, 2025`
 ];
