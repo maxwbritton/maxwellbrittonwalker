@@ -17,21 +17,6 @@ a:hover {
   color: #000000;
 }
 
-.nav-menu {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  float: center;
-  text-align: center;
-  display: block;
-  gap: 1.5rem;
-  background: rgba(255, 255, 255, 0.1);
-  border-radius: 8px;
-  max-width: 90%;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
 @media (max-width: 480px) {
   .nav-menu {
     flex-direction: column;
