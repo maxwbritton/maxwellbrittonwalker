@@ -17,11 +17,7 @@ a:hover {
   color: #000000;
 }
 
-@media (max-width: 480px) {
-  .nav-menu {
-    align-items: left;
-    gap: 0.5rem;
-  }
+@media (max-width: 480px)
 
 ul {
   list-style-type: none;
