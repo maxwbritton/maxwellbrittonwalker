@@ -20,8 +20,9 @@ a:hover {
 .nav-menu {
   list-style: none;
   padding: 0;
-  margin: 1rem 0 2rem 0;
-  display: flex;
+  margin: 0;
+  float: left;
+  display: block;
   gap: 1.5rem;
   background: rgba(255, 255, 255, 0.1);
   border-radius: 8px;
