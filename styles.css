@@ -19,7 +19,7 @@ a:hover {
 
 @media (max-width: 480px)
 
-nav {
+nav-menu {
 ul {
   list-style-type: none;
   margin: 0;
