@@ -2,7 +2,7 @@
 body {
   font-family: 'Courier Prime', monospace;
   background-color: #362f2f);
-  color: white;
+  color: black;
   margin: 0;
   padding: 2rem;
   min-height: 100vh;
@@ -14,7 +14,7 @@ a {
 }
 
 a:hover {
-  color: #000000;
+  color: #FF0000;
 }
 
 .nav-menu {
