@@ -25,7 +25,7 @@ a:hover {
   gap: 1.5rem;
   background: rgba(255, 0, 0, 0.3);
   border-radius: 8px;
-  max-width: 95%;
+  max-width: 100%;
   flex-wrap: wrap;
   justify-content: center;
 }
